@@ -1,0 +1,10 @@
+/* ============================================================
+   CODEPEN CSS PANEL
+   Makes the scene fill the window with no white edges or scroll bars.
+   ============================================================ */
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: #d8dde0; /* same color as the fog */
+}
